@@ -2,7 +2,7 @@
 
 This repository contains PyTorch codes and datasets for the paper:
 
-> Shan, Shuhui and Zhou, Wei and Gao, Min and Zhang, Hongyu and Wen, Junhao. Muti-Cluster Division Fine-Grained Heterogeneous Graph Contrastive Learning for Recommendation.
+> Shan, Shuhui and Zhou, Wei and Gao, Min and Zhang, Hongyu and Wen, Junhao. Muti-Cluster Division Fine-Grained Heterogeneous Graph Contrastive Learning for Recommendation.This paper has been submitted to TOIS.
 
 
 ## Introduction
