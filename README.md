@@ -34,7 +34,7 @@ You need to create the `History/` and the `Models/` directories.
 - mkdir /History
 - mkdir /Model 
 
-The command to train MCD-HCL on the Tmall/IJCAI datasets are as follows. The commands specify the hyperparameter settings that generate the reported results in the paper.
+The command to train MCD-HCL on the Tmall datasets are as follows. The commands specify the hyperparameter settings that generate the reported results in the paper.
 
 * Tmall
 ```
